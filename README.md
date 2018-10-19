@@ -5,7 +5,7 @@ Need to update few things here before running the code. For timezone details, we
 How to get the API key?
 In google maps, we need to create a new project & enable TimeZone API & Places API in order to get the new API key under Credentials tab. 
 
-An example looks like (created a project for testing): 
+An example looks like (created a project for my testing): 
 https://console.cloud.google.com/google/maps-apis/apis/timezone-backend.googleapis.com/credentials?project=wide-surge-219811&duration=PT1H
 
 
